@@ -1,0 +1,5 @@
+2021_11_09
+
+폴더 생성 : mkdir python_lecture  && cd python_lecture && code .
+
+비쥬얼코드에서 material, 주피터노트북다운
